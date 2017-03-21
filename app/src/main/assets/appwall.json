@@ -1,0 +1,72 @@
+{
+  "banner3" : {
+    "title" : "banner3",
+    "image" : "http:\/\/img.zcool.cn\/community\/01d1f258c2722ea801219c77a28ffc.jpg@900w_1l_2o_100sh.jpg",
+    "url" : "http:\/\/www.baidu.com",
+    "des" : "banner3 des"
+  },
+  "banner1" : {
+    "title" : "banner1",
+    "image" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1490082462&di=188e87ec68a4e201b99449bebedf3b06&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.wallpaperlist.com%2Fuploads%2Fwallpaper%2Ffiles%2Fand%2Fandroid-logo-wallpaper-5425a4c666803.jpg",
+	"url" : "http:\/\/www.baidu.com",
+    "des" : "banner1 des"
+  },
+  "fungame" : [
+    {
+      "title" : "app1",
+      "image" : "http:\/\/img.zcool.cn\/community\/019c28554b6159000001bf729078c0.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app1 des"
+    },
+    {
+      "title" : "app2",
+      "image" : "http:\/\/img.zcool.cn\/community\/0136c0554b6159000001bf7215a00d.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app2 des"
+    },
+    {
+      "title" : "app3",
+      "image" : "http:\/\/img.zcool.cn\/community\/0136c0554b6159000001bf7215a00d.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app3 des"
+    },
+    {
+      "title" : "app4",
+      "image" : "http:\/\/img.zcool.cn\/community\/0136c0554b6159000001bf7215a00d.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app4 des"
+    }
+  ],
+  "recommend" : [
+    {
+      "title" : "app1",
+      "image" : "http:\/\/img.zcool.cn\/community\/0136c0554b6159000001bf7215a00d.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app1 des"
+    },
+    {
+      "title" : "app2",
+      "image" : "http:\/\/img.zcool.cn\/community\/010e62554b615a000001bf72f2c362.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app2 des"
+    },
+    {
+      "title" : "app3",
+      "image" : "http:\/\/img.zcool.cn\/community\/0136c0554b6159000001bf7215a00d.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app3 des"
+    },
+    {
+      "title" : "app4",
+      "image" : "http:\/\/img.zcool.cn\/community\/0136c0554b6159000001bf7215a00d.jpg",
+      "url" : "http:\/\/www.baidu.com",
+      "des" : "app4 des"
+    }
+  ],
+  "banner2" : {
+    "title" : "banner2",
+    "image" : "http:\/\/img.zcool.cn\/community\/0173ff58c2722ea801219c7745443e.jpg@900w_1l_2o_100sh.jpg",
+    "url" : "http:\/\/www.baidu.com",
+    "des" : "banner2 des"
+  }
+}

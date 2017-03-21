@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.leidong.gsontest.MainActivity"
+    android:layout_margin="16dp">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:textSize="20sp"
+            android:textColor="@color/colorPrimary"
+            android:background="#FFFF33"/>
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_height="200dp"
+            android:layout_width="match_parent"
+            android:background="#696969" />
+        <TextView
+            android:id="@+id/tv_url"
+            android:layout_height="50dp"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:background="#00ff00"/>
+        <TextView
+            android:id="@+id/tv_des"
+            android:textSize="20sp"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:background="#ff0000"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="47dp"
+        android:layout_marginStart="47dp"
+        android:text="解析1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="14dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="解析2"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="44dp"
+        android:layout_marginEnd="44dp" />
+
+
+</RelativeLayout>

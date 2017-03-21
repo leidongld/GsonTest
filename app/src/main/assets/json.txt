@@ -1,0 +1,21 @@
+{  
+    "array": [     
+        {  
+            "username": "Zhang San",
+            "password": "hahaha",
+            "age": 20
+        },   
+        {  
+            "username": "Li Si",
+            "password": "hehehe",
+            "age": 30
+        },
+        {
+            "username": "Wang Mazi",
+            "password": "heiheihei",
+            "age": 40
+        }
+    ],   
+    "error": 0,   
+    "next": true  
+}  
